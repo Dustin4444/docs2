@@ -32,7 +32,7 @@
     "@docusaurus/theme-search-algolia": "^3.8.0",
     "@mdx-js/react": "^3.0.0",
     "@svgr/webpack": "^5.5.0",
-    "@types/shelljs": "^0.8.11",
+    "@types/shelljs": "^0.10.0",
     "clsx": "^1.1.1",
     "docusaurus-plugin-sass": "^0.2.2",
     "dotenv": "^10.0.0",
